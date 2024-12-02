@@ -1,6 +1,6 @@
-# Twitter Sentiment Analysis using Space NER: Exploratory Data Analysis and Modeling
+# Twitter Sentiment Analysis using Spacey NER: Exploratory Data Analysis and Modeling
 
-This repository contains the code for a Twitter sentiment analysis project titled "Twitter Sentiment Analysis using Space NER: Exploratory Data Analysis and Modeling". The project utilizes Space NER for modeling and incorporates exploratory data analysis (EDA) techniques to gain insights from the dataset.
+This repository contains the code for a Twitter sentiment analysis project titled "Twitter Sentiment Analysis using Space NER: Exploratory Data Analysis and Modeling". The project utilizes Spacey NER for modeling and incorporates exploratory data analysis (EDA) techniques to gain insights from the dataset.
 
 ## Dataset Overview
 
